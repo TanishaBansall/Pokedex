@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: whitesmoke;
+}
+.card{
+    height:176px;
+    width:300px;
+    border-radius:10px;
+    margin-bottom: 50px;
+    background:green;
+}
+.card_img{
+    text-align:center;
+    font-size: 100px;
+}
+.card_name{
+    text-align:center;
+    color:green;
+    font-weight: bold;
+
+}
